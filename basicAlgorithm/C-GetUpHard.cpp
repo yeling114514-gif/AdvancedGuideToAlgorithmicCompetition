@@ -64,10 +64,11 @@ int main()
                 ans|=(1<<i);
 
             }
-
         }
     }
 
+
+    
 
     cout<<ans<<endl;
 
